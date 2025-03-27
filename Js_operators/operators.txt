@@ -1,0 +1,55 @@
+JavaScript Operators
+
+JavaScript operators are symbols or keywords used to perform operations on values or variables. Here’s a summary of the main types of operators:
+
+1. **Arithmetic Operators**: Perform basic mathematical operations.
+       +  (Addition): Adds two values.
+          (Subtraction): Subtracts one value from another.
+       *  (Multiplication): Multiplies two values.
+       /  (Division): Divides one value by another.
+       %  (Modulus): Returns the remainder of a division.
+       **  (Exponentiation): Raises a value to the power of another.
+
+2. **Assignment Operators**: Assign values to variables.
+       = : Assigns a value.
+       += : Adds and assigns.
+        = : Subtracts and assigns.
+       *= : Multiplies and assigns.
+       /= : Divides and assigns.
+
+3. **Comparison Operators**: Compare two values and return a boolean.
+       == : Equal to.
+       === : Strict equal (checks value and type).
+       != : Not equal.
+       !== : Strict not equal.
+       < ,  > ,  <= ,  >= : Less than, greater than, less than or equal to, greater than or equal to.
+
+4. **Logical Operators**: Combine or invert boolean values.
+       && : Logical AND.
+       || : Logical OR.
+       ! : Logical NOT.
+
+5. **Bitwise Operators**: Perform operations on binary representations.
+       & ,  | ,  ^ : AND, OR, XOR.
+       ~ : NOT.
+       << ,  >> ,  >>> : Left shift, right shift, zero fill right shift.
+
+6. **String Operators**: Work with strings.
+       + : Concatenates strings.
+       += : Appends to a string.
+
+7. **Unary Operators**: Operate on a single operand.
+       + : Converts to a number.
+         : Negates a number.
+       ++ : Increments by 1.
+          : Decrements by 1.
+       typeof : Returns the type of a variable.
+
+8. **Ternary Operator**: A shorthand for  if else .
+       condition ? valueIfTrue : valueIfFalse .
+
+These operators are fundamental to writing JavaScript code and are used in almost every program.
+
+
+
+
