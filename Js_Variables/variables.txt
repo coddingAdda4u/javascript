@@ -1,0 +1,12 @@
+In JavaScript, variables are used to store data that you can use and manipulate later in your program. Think of a variable as a labeled container where you can store information like numbers, text, or other types of data.
+
+Rules for variable
+1. Variable names can include letters, numbers, $, and _, but cannot start with a number.
+2. Use meaningful names to make your code easier to understand.
+
+Note - variable names are case sensitive name and Name are two different variables.
+
+How to declare variables
+1. Using var keyword (old method) - Avoid var unless you’re working with older JavaScript code.
+2. Using let keyword - Use let for variables that will change.
+3 Using const keyword - Use const for variables that won’t change.
