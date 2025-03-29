@@ -1,0 +1,12 @@
+Datatypes are the different types of data that can be stored or used in a program.
+There are many types of datatypes in javascript
+
+1. Number: Represents numeric values (e.g., 42, 3.14).
+2. String: Represents text (e.g., "Hello, World!").
+3. Boolean: Represents true or false values.
+4. Undefined: A variable that has been declared but not assigned a value.
+5. Null: Represents an intentional absence of any value.
+6. Object: A collection of key-value pairs (e.g., { name: "John", age: 30 }).
+7. Array: A collection of values (e.g., ["Hello", "World"])
+7. Symbol: Represents a unique and immutable value (introduced in ES6).
+8. BigInt: Represents integers larger than the Number type can safely handle (introduced in ES11).
